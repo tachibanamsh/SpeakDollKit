@@ -1,2 +1,3 @@
 # SpeakDollKit
 Raspberry piでおしゃべり
+test
