@@ -1,0 +1,2 @@
+# SpeakDollKit
+Raspberry piでおしゃべり
